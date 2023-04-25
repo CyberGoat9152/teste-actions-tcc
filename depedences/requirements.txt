@@ -1,0 +1,11 @@
+sanic
+pillow
+torch
+torchvision
+requests
+opencv-python
+yolo5
+pyyaml
+tqdm
+matplotlib
+seaborn
