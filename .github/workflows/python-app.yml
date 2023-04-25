@@ -34,6 +34,6 @@ jobs:
     - name: teste do pyteste
       run: |
         python3 ./server.py & 
-        sleep 45
+        sleep 25
         pytest
     
